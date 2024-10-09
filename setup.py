@@ -8,7 +8,7 @@ setuptools.setup(
     url="https://github.com/OpenDTB/OpenDTB-GUI",
     license="GPL-3.0",
     install_requires=[
-        "OpenDTB-main @ https://github.com/OpenDTB/OpenDTB-MAIN/archive/refs/tags/v0.0.1.tar.gz",
+        "OpenDTB-main @ https://github.com/OpenDTB/OpenDTB-MAIN/archive/refs/tags/v0.0.2.tar.gz",
         "PyQt-Fluent-Widgets",
         "lmdb",
         "qtconsole",
