@@ -29,7 +29,7 @@ pip install --no-cache-dir https://github.com/OpenDTB/OpenDTB-GUI/tarball/main
 运行
 ---
 ```
-python -m zjb.gui.splash_window
+python -m zjb.gui.splash_window_start
 ```
 
 使用默认的工作空间
