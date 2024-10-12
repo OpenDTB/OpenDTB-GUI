@@ -233,7 +233,7 @@ class MainWindow(FluentWindow):
 
         self.setTitleBar(CustomTitleBar(self))
         self.resize(1150, 750)
-        self.setWindowTitle("BrainNetom")#作者显示
+        self.setWindowTitle("BrainNetome")#作者显示
 
         self.windowicon = IconWidget(
             QIcon(find_resource_file("icon/logo_white_smaller.png")), self

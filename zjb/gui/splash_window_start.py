@@ -72,7 +72,7 @@ class SplashWindow(AcrylicWindow):
     def already_layout(self):
         """顺利下载完所有资源的 提示布局"""
         self.text_label.setText(
-            "Everything is ready, Zhejiang Lab Brain is starting ..."
+            "Everything is ready, BrainNetome Brain is starting ..."
         )
         self.text_label.setStyleSheet(
             "QLabel#textlabel{font: 22px 'Microsoft YaHei Light';margin-top:40px;height:30px}"
@@ -120,7 +120,7 @@ class SplashWindow(AcrylicWindow):
         # 标题
         self.title_label = QLabel(self)
         self.title_label.setObjectName("titlelabel")
-        self.title_label.setText("BrainNetom Center")
+        self.title_label.setText("BrainNetome Center")
         self.title_label.setStyleSheet(
             "QLabel#titlelabel{font: 25px 'Microsoft YaHei Light';margin-top:10px}"
         )
