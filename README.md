@@ -35,7 +35,7 @@ python -m zjb.gui.splash_window_start
 使用默认的工作空间
 ---
 下载资源仓库: https://github.com/OpenDTB/OpenDTB-Assets
-解压ZJB-Assets/workspaces/workspace_basic.zip，并在GUI应用首页`Open Workspace`中打开此工作空间并使用.
+解压OpenDTB-Assets/workspaces/workspace_basic.zip，并在GUI应用首页`Open Workspace`中打开此工作空间并使用.
 
 也可以通过百度网盘下载默认的工作空间：链接：https://pan.baidu.com/s/1a1teYJx4yB0B7HqsKeh4aw?pwd=ZJBW 
 
