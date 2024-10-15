@@ -35,19 +35,19 @@ class AboutUsInterface(ScrollArea):
 
         self.helpCard = HyperlinkCard(
             "https://zjb-docs.readthedocs.io/zh-cn/latest/",
-            self.tr("Open ZJB documentation"),
+            self.tr("Open OpenDTB documentation"),
             FluentIcon.HELP,
-            self.tr("ZJB documentation"),
-            self.tr("Read ZJB documentation to learn how to use ZJB"),
+            self.tr("OpenDTB documentation"),
+            self.tr("Read OpenDTB documentation to learn how to use OpenDTB"),
             self.personalGroup,
         )
 
         self.aboutCard = HyperlinkCard(
-            "https://www.zhejianglab.com/home",
+            "http://www.brainnetome.org/",
             self.tr("About Us"),
             FluentIcon.HOME,
-            self.tr("ZHEJIANG LAB"),
-            self.tr("Copyright © 2023 by Zhejiang Lab. All Rights Reserved"),
+            self.tr("Brainnetome Center"),
+            self.tr("Copyright © 2023 by Brainnetome Center. All Rights Reserved"),
             self.personalGroup,
         )
 
